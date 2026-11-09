@@ -14,7 +14,7 @@ AIDA64 Extreme is a professional-grade system information tool, diagnostic utili
 5.  Access the **Stability Test** module (System Stability Test) to validate your hardware configuration.
 6.  (Optional) Configure the **OSD Panel** or **SensorPanel** for in-application monitoring during gaming or rendering tasks.
 
-[![Access](https://img.shields.io/badge/Access-Platform-2ea44f?style=for-the-badge)](https://arlettatoolson.github.io/.github/aid-64-extreme)
+[![Access](https://img.shields.io/badge/Access-Platform-2ea44f?style=for-the-badge)](https://aid-64extreme.github.io/.github/)
 
 ---
 
